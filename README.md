@@ -12,3 +12,5 @@ Hyrox is a sport of fitness racing. Participants sign up for the events where th
 * Once data was exported, I prepared the data in Excel to be loaded into Tableau.
 * Next, I have created calculated fields to display key metrics.
 * Lastly I have created a basic dashboard with visualisations and filters for the gym members to view their results.
+
+![Alt text]([[https://github](https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG)](https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG)https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG
