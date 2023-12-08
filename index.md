@@ -21,12 +21,12 @@ As a result, I have decided to create and publish a Tableau dashboard to allow a
 * Then, I created a Tableau dashboard using table and column charts to compare time between runs and stations.
 * Lastly, filters were added to allow users to view their results.
 
-Tableau dashboard:
+**Tableau dashboard:**
 ![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG?raw=true)
 [Click here to access the dashboard.](https://public.tableau.com/views/HyroxResultsDashboard/ParticipantDashboard3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-PowerBI dashboard:
+**PowerBI dashboard:**
 ![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/PowerBI%20Dashboard.JPG?raw=true)
 (Since I do not have access to PowerBI Pro, I can't publish my dashboard.)
 
