@@ -13,4 +13,10 @@ Hyrox is a sport of fitness racing. Participants sign up for the events where th
 * Next, I have created calculated fields to display key metrics.
 * Lastly I have created a basic dashboard with visualisations and filters for the gym members to view their results.
 
+Tableau dashboard:
 ![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG?raw=true)
+
+PowerBI dashboard:
+![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG?raw=true)
+
+
