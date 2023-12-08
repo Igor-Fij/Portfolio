@@ -1,7 +1,7 @@
 # Igor Fijalkowski - Portfolio
 A page where I will be uploading data projects that I have been working on.
 
-# ${{\color{blue}Project\ 1:\ Hyrox\ Results\ Dashboard}}$
+# Project 1: Hyrox Results Dashboard
 
 Hyrox is a sport of fitness racing. Participants sign up for the events where they have to complete 8km of running split into 8x1km and 8 stations between them. For more information, I recommend checking Hyrox's official website: www.hyrox.com
 
