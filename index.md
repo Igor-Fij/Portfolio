@@ -24,7 +24,7 @@ As a result, I have decided to create and publish a Tableau dashboard to allow a
 Tableau dashboard:
 ![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG?raw=true)
 [Click here to access dashboard.](https://public.tableau.com/views/HyroxResultsDashboard/ParticipantDashboard3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
----
+
 
 PowerBI dashboard:
 ![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/PowerBI%20Dashboard.JPG?raw=true)
