@@ -3,7 +3,7 @@ Portfolio where I will be uploading Data projects I have been working on.
 
 # ${{\color{blue}Project\ 1:\ Hyrox\ Results\ Dashboard}}$
 
-Hyrox is a sport of fitness racing. Participants sign up for the events where they have to complete 8km of running split into 8x1km and 8 stations between them. For more information I recommend checking Hyrox official website: [Hyrox](#www.hyrox.com) 
+Hyrox is a sport of fitness racing. Participants sign up for the events where they have to complete 8km of running split into 8x1km and 8 stations between them. For more information I recommend checking Hyrox official website: www.hyrox.com
 
 * The purpose of this project is to allow members of the gym community to view and compare their Hyrox results. The official website where participants can view the results is not the most user-friendly and does not allow you to compare results between events, you need to manually export data into Excel or on paper and compare results.
 * As a result I have decided to create a dashboard in Tableau and publish it to allow all gym members to track their progress, compare results between events, and help myself and other personal trainers to spot areas for improvements for future events.
