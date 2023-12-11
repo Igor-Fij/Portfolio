@@ -1,22 +1,44 @@
-# Igor Fijalkowski - Portfolio
-Portfolio where I will be uploading Data projects I have been working on.
+Hi! My name is Igor and welcome to my data analytics portfolio.
+Below you will find projects that I have been working on recently. 
 
-# ${{\color{blue}Project\ 1:\ Hyrox\ Results\ Dashboard}}$
+# **Project 1: Hyrox Results Dashboard**
 
-Hyrox is a sport of fitness racing. Participants sign up for the events where they have to complete 8km of running split into 8x1km and 8 stations between them. For more information I recommend checking Hyrox official website: www.hyrox.com
+## **Overview:**
+Hyrox is a rapidly growing sport of fitness racing. Participants sign up for the events where they have to complete 8km of running and 8 stations (alternating 1km run with a station). 
+For more information, I would recommend checking Hyrox's official website: [Hyrox](https://hyrox.com)
 
-* The purpose of this project is to allow members of the gym community to view and compare their Hyrox results. The official website where participants can view the results is not the most user-friendly and does not allow you to compare results between events, you need to manually export data into Excel or on paper and compare results.
-* As a result I have decided to create a dashboard in Tableau and publish it to allow all gym members to track their progress, compare results between events, and help myself and other personal trainers to spot areas for improvements for future events.
-* First I had to get hold of the data. I could do it manually by creating an Excel template where I would paste the raw data, then process/clean the data, and paste it into a table (this works well for sourcing individual results).
-* For larger data sets, I had to find a way to scrape the data off the website with my limited Python knowledge. I found a Python script on Kaggle that allows me to scrape the data off for specific events.
-* Once data was exported, I prepared the data in Excel to be loaded into Tableau.
-* Next, I have created calculated fields to display key metrics.
-* Lastly I have created a basic dashboard with visualisations and filters for the gym members to view their results.
+### **Motivation behind a project:**
+The purpose of this project is to allow members from my local gym to view and compare their Hyrox results. My dashboard provides an interactive and comparative platform for members to view their race results, unlike the official website which does not allow to compare results and forces users to manually export data into Excel or a piece of paper to compare times.
 
-Tableau dashboard:
+### **Solution:**
+I have decided to create and publish a Tableau dashboard to allow all gym members who competed in Hyrox events to track their progress, compare results between events, and generate insight for personal trainers to spot areas for improvements for future events.
+
+### **High-level summary of the project:**
+1. Getting hold of the data. 
+   - At first, I exported the data manually by creating an Excel template where I would paste the raw data from the website. 
+   - Then I would process the data, and paste it into a table (works well for sourcing individual results).
+2. Scraping the data off the Hyrox website. 
+   - For larger data sets, I had to find a way to scrape the data off the official website, however, I was unable to write an entire Python script from scratch. 
+   - After doing some research, I found a Python script on Kaggle that allows me to scrape the data off the Hyrox website for selected events.
+3. Transforming/cleaning data.
+   - Once data was exported, I had to clean and transform the data.
+   - Filtering the results of the gym members and removing other participant results.
+   - Transposing the data.
+   - Formatting the data correctly.
+4. Cleaned and transformed data was uploaded to Tableau.
+5. Building a dashboard.  
+   - Creating calculated fields in Tableau to display key metrics.
+   - Creating a Tableau dashboard using table and column charts to compare time between runs and stations.
+   - Adding filters to make the dashboard interactive.
+
+**Tableau dashboard:**
 ![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/Tableau%20Hyrox%20Dashboard.JPG?raw=true)
+[Click here to access the dashboard.](https://public.tableau.com/views/HyroxResultsDashboard/ParticipantDashboard3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
-PowerBI dashboard:
+
+**PowerBI dashboard:**
 ![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/PowerBI%20Dashboard.JPG?raw=true)
+(Since I do not have PowerBI Pro, I can't publish my dashboard.)
+
 
 
