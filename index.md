@@ -72,4 +72,4 @@ Exporting raw data stored in multiple data repositories like MySQL database, dat
 5. Publishing a dashboard for stakeholders to view, use, and provide feedback (due to not having access to PowerBI Pro, I am unable to publish the dashboard below).
 
 **PowerBI dashboard:**
-![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/NPS%20Dashboard%20PowerBI.JPG)
+![Alt text](https://github.com/Igor-Fij/Portfolio/blob/main/images/VoC%20Dashboard%20PowerBI.JPG)
