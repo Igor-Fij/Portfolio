@@ -4,14 +4,14 @@ Below you will find projects that I have been working on recently.
 # **Project 1: Hyrox Results Dashboard**
 
 ## **Overview:**
-Hyrox is a rapidly growing sport of fitness racing. Participants sign up for the events where they have to complete 8km of running and 8 stations (alternating 1km run and a station). 
+Hyrox is a rapidly growing sport of fitness racing. Participants sign up for the events where they have to complete 8km of running and 8 stations (alternating 1km run with a station). 
 For more information, I would recommend checking Hyrox's official website: [Hyrox](https://hyrox.com)
 
 ### **Motivation behind a project:**
 The purpose of this project is to allow members from my local gym to view and compare their Hyrox results. My dashboard provides an interactive and comparative platform for members to view their race results, unlike the official website which does not allow to compare results and forces users to manually export data into Excel or a piece of paper to compare times.
 
 ### **Solution:**
-I have decided to create and publish a Tableau dashboard to allow all gym members who took part in Hyrox to track their progress, compare results between events, and generate insight for personal trainers to spot areas for improvements for future events.
+I have decided to create and publish a Tableau dashboard to allow all gym members who competed in Hyrox events to track their progress, compare results between events, and generate insight for personal trainers to spot areas for improvements for future events.
 
 ### **High-level summary of the project:**
 1. Getting hold of the data. 
